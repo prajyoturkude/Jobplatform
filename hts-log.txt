@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 13 May 2024 11:26:32 at https://eduquest.itech-theme.com/home-5/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://eduquest.itech-theme.com/home-5/ -O1 "D:\HTTrack Website\Job Platform" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:27:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://eduquest.itech-theme.com/wp-content/uploads/elementor/css/custom-widget-icon-box.min.css?ver=1710329293 (from https://eduquest.itech-theme.com/home-5/)
+11:27:07	Error: 	"Not Found" (404) at link https://eduquest.itech-theme.com/wp-content/plugins/the-pack-addon/assets/iconfont/themify-icons/fonts/themify.eot?-fvbane (from https://eduquest.itech-theme.com/wp-content/plugins/the-pack-addon/assets/iconfont/themify-icons/themify-icons.css?ver=3.0.1)
+11:27:07	Error: 	"Not Found" (404) at link https://eduquest.itech-theme.com/wp-content/plugins/the-pack-addon/assets/iconfont/themify-icons/fonts/themify.eot? (from https://eduquest.itech-theme.com/wp-content/plugins/the-pack-addon/assets/iconfont/themify-icons/themify-icons.css?ver=3.0.1)
+11:27:07	Error: 	"Not Found" (404) at link https://eduquest.itech-theme.com/wp-content/plugins/the-pack-addon/assets/iconfont/themify-icons/fonts/themify.ttf?-fvbane (from https://eduquest.itech-theme.com/wp-content/plugins/the-pack-addon/assets/iconfont/themify-icons/themify-icons.css?ver=3.0.1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 36 seconds : 115 links scanned, 110 files written (6626884 bytes overall) [4013239 bytes received at 111478 bytes/sec], 3878617 bytes transferred using HTTP compression in 85 files, ratio 22%, 28.7 requests per connection
+(3 errors, 1 warnings, 0 messages)
